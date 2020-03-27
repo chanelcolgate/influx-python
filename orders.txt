@@ -1,0 +1,5 @@
+Orders,cust_id=1,order_date=2020-05-01 order_num=20005
+Orders,cust_id=2,order_date=2020-01-12 order_num=20006
+Orders,cust_id=3,order_date=2020-01-30 order_num=20007
+Orders,cust_id=4,order_date=2020-02-03 order_num=20008
+Orders,cust_id=5,order_date=2020-02-08 order_num=20009

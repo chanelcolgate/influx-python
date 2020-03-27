@@ -1,0 +1,9 @@
+Products,prod_id=BR01,vend_id=BRS01,prod_name=8-inch-teddy-bear,prod_desc=8-inch-teddy-bear-comes-with-cap-and-jacket prod_price=5.99
+Products,prod_id=BR02,vend_id=BRS01,prod_name=12-inch-teddy-bear,prod_desc=12-inch-teddy-bear-comes-with-cap-and-jacket prod_price=8.99
+Products,prod_id=BR03,vend_id=BRS01,prod_name=18-inch-teddy-bear,prod_desc=18-inch-teddy-bear-comes-with-cap-and-jacket prod_price=11.99
+Products,prod_id=BNBG01,vend_id=BRS01,prod_name=Fish-bean-bag-toy,prod_desc=Fish-bean-bag-toy-complete-with-bean-bag-worms-with-which-to-feel-it prod_price=3.99
+Products,prod_id=BNBG02,vend_id=BRS01,prod_name=Bird-bean-bag-toy,prod_desc=Bird-bean-bag-toy-eggs-are-not-included prod_price=3.99
+Products,prod_id=BNBG03,vend_id=BRS01,prod_name=Rabbit-bean-bag-toy,prod_desc=Rabbit-bean-bag-toy-comes-with-bean-bag-carrots prod_price=4.99
+Products,prod_id=RGAN01,vend_id=BRS01,prod_name=Raggedy-Ann,prod_desc=18-inch-Raggedy-Ann-doll prod_price=9.99
+Products,prod_id=RYL01,vend_id=BRS01,prod_name=King-doll,prod_desc=12-inch-king-doll-with-royak-garments-and-crown prod_price=9.99
+Products,prod_id=RYL02,vend_id=BRS01,prod_name=Queen-doll,prod_desc=12-inch-queen-doll-with-royal-garments-and-crown prod_price=9.99

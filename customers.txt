@@ -1,0 +1,5 @@
+Customers,cust_id=1,cust_name=Village-Toys,cust_address=200-Maple-Lane,cust_city=Detroit,cust_state=MI,cust_country=USA,cust_contact=Joh-Smith,cust_email=sales@villagetoys.com cust_zip="44444"
+Customers,cust_id=2,cust_name=Kids-Place,cust_address=333-South-Lake-Drive,cust_city=Columbus,cust_state=OH,cust_country=USA,cust_contact=Michelle-Green cust_zip="43333"
+Customers,cust_id=3,cust_name=Fun4All,cust_address=1-Sunny-Place,cust_city=Muncie,cust_state=USA,cust_country=USA,cust_contact=Jim-Jones,cust_email=jjones@fun4all.com cust_zip="42222"
+Customers,cust_id=4,cust_name=Fun4All,cust_address=829-Riverside-Drive,cust_city=Phoenix,cust_state=AZ,cust_country=USA,cust_contact=Denise-L.-Stephens,cust_email=dstephens@fun4all.com cust_zip="88888"
+Customers,cust_id=5,cust_name=The-Toy-Store,cust_address=4545-53rd-Street,cust_city=Chicago,cust_state=IL,cust_country=USA,cust_contact=Kim-Howard cust_zip="54545"
